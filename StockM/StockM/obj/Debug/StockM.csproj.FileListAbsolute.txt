@@ -1,0 +1,12 @@
+E:\C++\StockM\StockM\bin\Debug\StockM.exe.config
+E:\C++\StockM\StockM\bin\Debug\StockM.exe
+E:\C++\StockM\StockM\bin\Debug\StockM.pdb
+E:\C++\StockM\StockM\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\C++\StockM\StockM\obj\Debug\StockM.csprojResolveAssemblyReference.cache
+E:\C++\StockM\StockM\obj\Debug\StockM.Form1.resources
+E:\C++\StockM\StockM\obj\Debug\StockM.Properties.Resources.resources
+E:\C++\StockM\StockM\obj\Debug\StockM.csproj.GenerateResource.Cache
+E:\C++\StockM\StockM\obj\Debug\StockM.exe
+E:\C++\StockM\StockM\obj\Debug\StockM.pdb
+E:\C++\StockM\StockM\obj\Debug\StockM.Form2.resources
+E:\C++\StockM\StockM\obj\Debug\StockM.Form3.resources
